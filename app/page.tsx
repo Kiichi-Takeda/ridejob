@@ -1,5 +1,5 @@
 import Hero from "./components/sections/Hero";
-import Header from "@/components/Header";
+import Header from "@/components/sections/Header";
 import Features from "@/components/sections/Features";
 import FeatureDetail from "@/components/sections/FeatureDetail";
 import { JobListings } from "@/components/sections/JobListings";
